@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshjanwe&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshjanwe" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot Microservices**
+- 🌱 I’m currently learning **SpringBoot & Microservices**
 
 - 📫 How to reach me **rushikeshjanwe@gmail.com**
 
