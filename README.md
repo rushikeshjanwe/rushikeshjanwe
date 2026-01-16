@@ -13,9 +13,9 @@
   <a href="https://github.com/rushikeshjanwe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:rushikeshjanwe@gmail.com" target="_blank">
+ <a href="mailto:rushikeshjanwe@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+</a>
   <a href="https://leetcode.com/u/rushikesh_janwe/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode" alt="LeetCode"/>
   </a>
