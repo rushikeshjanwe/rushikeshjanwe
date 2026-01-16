@@ -1,38 +1,107 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Janwe </h1>
-<h3 align="center">A passionate Java Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikeshjanwe&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshjanwe" /> </p>
-
-- 🌱 I’m currently learning **SpringBoot & Microservices**
-
-- 📫 How to reach me **rushikeshjanwe@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rushikeshjanwe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikeshjanwe/" height="30" width="40" /></a>
-<a href="https://instagram.com/rushikesh_janwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushikesh_janwe" height="30" width="40" /></a>
-<a href="https://medium.com/@rushikeshjanwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rushikeshjanwe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rushikesh_janwe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rushikesh_janwe/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/rushikes7crw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/rushikes7crw/" height="30" width="40" /></a>
+<!-- Profile views counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ersujalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> < </a> </p>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  
- <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikeshjanwe&show_icons=true&locale=en&layout=compact" 
-    alt="Top Languages" 
-    style="width: 400px;" 
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshjanwe" 
-    alt="GitHub Streak Stats" 
-    style="width: 400px;" 
-  />
-</div>
+<h1 align="center">Hi 👋, I'm Sujal Sharma</h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujalsharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ersujalsharma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:sujalsharmaprofessional@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://leetcode.com/sujalsharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working as a **Software Engineer at Infosys**
+- 🌱 I’m learning **Generative AI, System Design, and Cloud DevOps**
+- 💬 Ask me about **Java, Spring, Microservices, DSA, REST APIs, or DevOps**
+- 📫 How to reach me: **sujalsharmaprofessional@gmail.com**
+- ⚡ Fun fact: I love solving DSA problems and building scalable backend systems!
+
+---
+
+## 🚀 Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ersujalsharma&show_icons=true&theme=tokyonight" alt="Sujal's GitHub stats" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersujalsharma&theme=tokyonight" alt="Sujal's GitHub streak" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersujalsharma&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ersujalsharma&theme=tokyonight&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+- [URL Shortener](https://github.com/ersujalsharma/url-shortener)  
+  RESTful API for short URLs with analytics, Redis caching, Redis ID Distribution, MySQL Database Horizon Sharding.
+
+- [Personal-Finance-Tracker-System](https://github.com/ersujalsharma/Personal-Finance-Tracker-System)  
+  A secure web-based application for tracking income, expenses, and savings using JWT-based authentication and real-time financial insights.
+
+---
+
+## 📚 Achievements
+
+- 🥇 Infosys Certified Spring Associate & Java Spring Angular Developer
+- 🏆 1000+ DSA questions solved on LeetCode, 700+ on GeeksForGeeks
+- 🏅 Achieved 80% in Infosys Foundation Program
+
+---
+
+## 📢 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujalsharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:sujalsharmaprofessional@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ersujalsharma" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thank you for visiting my profile! 🚀</p>
