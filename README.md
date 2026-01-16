@@ -3,20 +3,20 @@
   <img src="https://komarev.com/ghpvc/?username=ersujalsharma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sujal Sharma</h1>
+<h1 align="center">Hi 👋, I'm Rushikesh Janwe</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujalsharma/" target="_blank">
+  <a href="https://www.linkedin.com/in/rushikeshjanwe/" target="_blank">   
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ersujalsharma" target="_blank">
+  <a href="https://github.com/rushikeshjanwe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:sujalsharmaprofessional@gmail.com" target="_blank">
+  <a href="mailto:rushikeshjanwe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/sujalsharma/" target="_blank">
+  <a href="https://leetcode.com/u/rushikesh_janwe/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode" alt="LeetCode"/>
   </a>
 </p>
