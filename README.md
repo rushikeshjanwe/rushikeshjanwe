@@ -72,11 +72,11 @@
 
 ## 🌟 Featured Projects
 
-- [URL Shortener](https://github.com/ersujalsharma/url-shortener)  
-  RESTful API for short URLs with analytics, Redis caching, Redis ID Distribution, MySQL Database Horizon Sharding.
+- [Incident_Management_System](https://github.com/rushikeshjanwe/Incident_Management_System)  
+  RRESTful API for incident tracking and resolution with role-based authentication, priority queuing, SLA monitoring, and automated escalation workflows.
 
-- [Personal-Finance-Tracker-System](https://github.com/ersujalsharma/Personal-Finance-Tracker-System)  
-  A secure web-based application for tracking income, expenses, and savings using JWT-based authentication and real-time financial insights.
+- [E-Commerce](https://github.com/rushikeshjanwe/Ecommerce)  
+ Scalable online marketplace with JWT authentication, product inventory management, shopping cart, payment gateway integration, and order fulfillment tracking.
 
 ---
 
