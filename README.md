@@ -13,7 +13,7 @@
   <a href="https://github.com/rushikeshjanwe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
   </a>
- <a href="mailto:rushikeshjanwe@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rushikeshjanwe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
   <a href="https://leetcode.com/u/rushikesh_janwe/" target="_blank">
