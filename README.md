@@ -28,7 +28,7 @@
 - 🔭 I’m currently working as a **Software Engineer at Infosys**
 - 🌱 I’m learning **Generative AI, System Design, and Cloud DevOps**
 - 💬 Ask me about **Java, Spring, Microservices, DSA, REST APIs, or DevOps**
-- 📫 How to reach me: **sujalsharmaprofessional@gmail.com**
+- 📫 How to reach me: **rushikeshjanwe@gmail.com**
 - ⚡ Fun fact: I love solving DSA problems and building scalable backend systems!
 
 ---
