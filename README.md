@@ -65,8 +65,18 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ersujalsharma&theme=tokyonight&margin-w=10" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshjanwe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshjanwe&theme=tokyonight&hide_border=true" alt="GitHub streak" width="48%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshjanwe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rushikeshjanwe&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="Trophies" />
+</p>
+
 
 ---
 
