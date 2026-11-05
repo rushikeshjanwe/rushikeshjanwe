@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Janwe</h1>
-<h3 align="center">Software Engineer | Java Backend | Spring Boot | Microservices</h3>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | React</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rushikeshjanwe/" target="_blank">
@@ -21,7 +21,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Software Engineer at **Infosys** with ~4 years of experience in the banking domain
-- ⚙️ I build backend services with **Java, Spring Boot and Microservices**, with a focus on clean REST APIs and reliability
+- ⚙️ Full stack developer building backend services with **Java, Spring Boot and Microservices**, and responsive UIs with **React**
+- 🧩 I care about clean REST APIs, reliability and maintainable code
 - 🌱 Currently learning **Generative AI (Spring AI), System Design and Cloud DevOps**
 - 💬 Ask me about **Java, Spring, Microservices, DSA, REST APIs or DevOps**
 - 📫 Reach me at **rushikeshjanwe@gmail.com**
@@ -33,13 +34,21 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Frameworks & Libraries**
+**Backend**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Databases**
 
