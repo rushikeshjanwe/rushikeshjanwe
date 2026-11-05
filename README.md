@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Software Engineer at **Infosys** with ~4 years of experience in the banking domain
+- 🔭 Software Engineer at **Infosys** with 4 years of experience in the banking domain
 - ⚙️ Full stack developer building backend services with **Java, Spring Boot and Microservices**, and responsive UIs with **React**
 - 🧩 I care about clean REST APIs, reliability and maintainable code
 - 🌱 Currently learning **Generative AI (Spring AI), System Design and Cloud DevOps**
